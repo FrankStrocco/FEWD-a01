@@ -16,6 +16,6 @@ I also enjoy coding and trying to solve _**coding challenges**_. I used to play 
 * drawing
 
 ##Here's a cool colorful picture on the web:
-![pic of cute puppy](https://www.pinterest.com/pin/706361522784105548/)
+![pic of cute puppy](http://www.zarias.com/wp-content/uploads/2015/12/18-cute-puppies.jpg)
 
 ##Check out my Backyard ideas on [pinterest](https://pin.it/nqmm2tawbqz6i5)
