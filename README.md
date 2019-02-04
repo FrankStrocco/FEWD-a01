@@ -15,7 +15,7 @@ I also enjoy coding and trying to solve _**coding challenges**_. I used to play 
 * reading
 * drawing
 
-##Here's a cool colorful picture on the web:
+## Here's a cool colorful picture on the web:
 ![pic of cute puppy](http://www.zarias.com/wp-content/uploads/2015/12/18-cute-puppies.jpg)
 
-##Check out my Backyard ideas on [pinterest](https://pin.it/nqmm2tawbqz6i5)
+## Check out my Backyard ideas on [pinterest](https://pin.it/nqmm2tawbqz6i5)
