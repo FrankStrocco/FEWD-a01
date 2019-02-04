@@ -15,7 +15,7 @@ I also enjoy coding and trying to solve _**coding challenges**_. I used to play 
 * reading
 * drawing
 
-Here's a cool colorful picture on the web:
+##Here's a cool colorful picture on the web:
 ![colors splashed picture](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjKhuvPmaHgAhUIL3wKHbNYBWMQjRx6BAgBEAQ&url=https%3A%2F%2Fimgur.com%2Fgallery%2FXLclt&psig=AOvVaw0hGMoq9Z-Hm7OAikBjcAlV&ust=1549339519412987)
 
-Check out my Backyard ideas on [pinterest] (https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjKhuvPmaHgAhUIL3wKHbNYBWMQjRx6BAgBEAQ&url=https%3A%2F%2Fimgur.com%2Fgallery%2FXLclt&psig=AOvVaw0hGMoq9Z-Hm7OAikBjcAlV&ust=1549339519412987)
+##Check out my Backyard ideas on [pinterest](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjKhuvPmaHgAhUIL3wKHbNYBWMQjRx6BAgBEAQ&url=https%3A%2F%2Fimgur.com%2Fgallery%2FXLclt&psig=AOvVaw0hGMoq9Z-Hm7OAikBjcAlV&ust=1549339519412987)
